@@ -1,0 +1,9 @@
+## CLIENTE - DADOS
+
+| id_cliente | nome | CPF |
+|---:|---|---|
+| 1 | Ana Souza | 123.456.789-01 |
+| 2 | Bruno Lima | 234.567.890-12 |
+| 3 | Carla Mendes | 345.678.901-23 |
+| 4 | Daniel Rocha | 456.789.012-34 |
+| 5 | Eduarda Alves | 567.890.123-45 |

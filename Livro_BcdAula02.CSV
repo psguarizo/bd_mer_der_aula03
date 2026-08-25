@@ -1,0 +1,11 @@
+## LIVRO
+
+| id_livro | titulo | ISBN | genero | ano_publicacao | id_autor (FK) |
+|---:|---|---|---|---:|---:|
+| 1 | Dom Casmurro | 9788535902772 | Romance | 1899 | 1 |
+| 2 | O Cortiço | 9788573260422 | Romance | 1890 | 2 |
+| 3 | Capitães da Areia | 9788535911699 | Ficção | 1937 | 3 |
+| 4 | A Hora da Estrela | 9788520929662 | Romance | 1977 | 4 |
+| 5 | Vidas Secas | 9788501067342 | Drama | 1938 | 5 |
+| 6 | 1984 | 9788535914849 | Distopia | 1949 | 6 |
+| 7 | O Hobbit | 9788595084759 | Fantasia | 1937 | 7 |
