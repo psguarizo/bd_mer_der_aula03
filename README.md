@@ -1,12 +1,8 @@
 # Banco de Dados Aula03
 
-## MER DER Conceitual
+## MER DER Conceitual e Lógico
 
-![MER DER Conceitual](./MER_DER_Conceitual.png)
-
-## MER DER Lógico
-
-![MER DER Lógico](./MER_DER_Logico.png)
+![MER DER Livraria](./MER_DER_Livraria.png)
 
 ## Dicionário de Dados
 
